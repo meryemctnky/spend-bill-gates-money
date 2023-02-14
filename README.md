@@ -1,7 +1,7 @@
 # Spend Bill Gates' Money
 This app built with [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) that allows users to spend Bill Gates' money by choosing certain products. You can also see the receipt at the end of the page.
 
-## See Live : [Here](https://simple-notes-app-react.netlify.app)
+## See Live : [Here](https://spend-bill-gates-money-react.netlify.app/)
 
 
 
