@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    background-color: #F1F2F6 !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sell_active {
+    background: linear-gradient(180deg,#f53b82,#f53b57);
+    color: white;
+}
+.sell_passive, .buy_passive {
+    background: #EDF2F7;
+    color: #333;
+    cursor: default;
+    pointer-events: none;
+}
+
+.buy_active {
+    background: linear-gradient(180deg,#2ecc71,#1abc9c);
+    color: white;
+}
