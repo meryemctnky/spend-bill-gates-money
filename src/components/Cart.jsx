@@ -20,7 +20,7 @@ const Cart = () => {
   const { products, currentMoney, totalMoney } = useSelector((state) => state.products);
 
   useEffect(() => {
-    if (currentMoney === 100000) {
+    if (currentMoney === 100000000000) {
       setShow(false);
     } else {
       setShow(true);
