@@ -247,70 +247,70 @@ const products = [
     {
         id:36,
         name:"M1 Abrams",
-        price:8,
+        price:8000000,
         link:"https://neal.fun/spend/images/m1-abrams.jpg",
         count:0
     },
     {
         id:37,
         name:"Formula 1 Car",
-        price:15,
+        price:15000000,
         link:"https://neal.fun/spend/images/formula-1-car.jpg",
         count:0
     },
     {
         id:38,
         name:"Apache Helicopter",
-        price:31,
+        price:31000000,
         link:"https://neal.fun/spend/images/apache-helicopter.jpg",
         count:0
     },
     {
         id:39,
         name:"Mansion",
-        price:45,
+        price:45000000,
         link:"https://neal.fun/spend/images/mansion.jpg",
         count:0
     },
     {
         id:40,
         name:"Make a Movie",
-        price:100,
+        price:100000000,
         link:"https://neal.fun/spend/images/make-a-movie.jpg",
         count:0
     },
     {
         id:41,
         name:"Boeing 747",
-        price:148,
+        price:148000000,
         link:"https://neal.fun/spend/images/boeing-747.jpg",
         count:0
     },
     {
         id:42,
         name:"Mona Lisa",
-        price:780,
+        price:780000000,
         link:"https://neal.fun/spend/images/mona-lisa.jpg",
         count:0
     },
     {
         id:43,
         name:"Skyscraper",
-        price:850,
+        price:850000000,
         link:"https://neal.fun/spend/images/skyscraper.jpg",
         count:0
     },
     {
         id:44,
         name:"Cruise Ship",
-        price:930,
+        price:930000000,
         link:"https://neal.fun/spend/images/cruise-ship.jpg",
         count:0
     },
     {
         id:45,
         name:"NBA Team",
-        price:2120,
+        price:2120000000,
         link:"https://neal.fun/spend/images/nba-team.jpg",
         count:0
     }
